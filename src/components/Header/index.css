@@ -1,0 +1,21 @@
+.con{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+}
+.back{
+    background-color: grey;
+}
+.head{
+    color: green;
+    font-size: 30px;
+    text-align: center;
+    font-family: arial;
+}
+.con1{
+    list-style-type: none;
+    width: 100px;
+    background-color: lightblue;
+    text-align: center;
+    margin: 20px;
+}

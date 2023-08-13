@@ -1,0 +1,35 @@
+.container{
+    background-color:grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.container1{
+    width: 40vw;
+    height: 500px;
+    margin: 20px;
+    background-color: antiquewhite;
+    box-sizing: border-box;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.head1{
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+    font-family: arial;
+}
+.para1{
+    font-size: 20px;
+    color: gray;
+    font-family: arial;
+}
+.imag{
+   background-size: cover;
+    width: 20vw;
+    height: 300px;
+}

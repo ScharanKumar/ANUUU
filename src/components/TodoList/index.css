@@ -1,0 +1,16 @@
+.container2{
+    background-color: beige;
+
+}
+.head2{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-family: Arial;
+}
+.but{
+    color: blueviolet;
+    background-color: aliceblue;
+    height: 50px;
+    width: 150px;
+}
